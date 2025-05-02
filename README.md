@@ -68,8 +68,10 @@ SQL queries were used to extract and analyze key metrics:
 2. Interactive dashboards were built to visualize trends, revenue, and market performance.
 
 ---
-### Dashboard
-![Screenshot 2025-04-27 222108](https://github.com/user-attachments/assets/9bbc6928-3246-4645-9437-aeff9fe29587)
+### Live Dashboard 
+https://app.powerbi.com/view?r=eyJrIjoiZGQ3ZGFjNzctNGE5ZC00YmViLTg5MmUtYjI4ODc0ODc1OTY4IiwidCI6IjYyZTQwMTQ3LTIzNTEtNDliYy04OWNmLWVmOThjZjA3ZDE1MiJ9
+![Screenshot 2025-05-02 114139](https://github.com/user-attachments/assets/8d404da5-669f-4032-b0c2-a806040aaa6a)
+
 
 ### **Conclusion**
 This project highlights how SQL and Power BI can be combined for powerful data analysis. SQL facilitated precise data extraction and trend identification, while Power BI enabled dynamic visualization for actionable insights.
